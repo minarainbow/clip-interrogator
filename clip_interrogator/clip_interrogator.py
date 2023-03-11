@@ -127,7 +127,8 @@ class Interrogator():
 
         self._prepare_clip()
         self.artists = LabelTable(artists, "artists", self.clip_model, self.tokenize, config)
-        self.flavors = LabelTable(_load_list(config.data_path, 'flavors.txt'), "flavors", self.clip_model, self.tokenize, config)
+        self.lighting = LabelTable(_load_list(config.data_path, 'lighting.txt'), "lighting", self.clip_model, self.tokenize, config)
+        self.camera_shot = LabelTable(_load_list(config.data_path, 'camera_shot.txt'), "camera_shot", self.clip_model, self.tokenize, config)
         self.mediums = LabelTable(_load_list(config.data_path, 'mediums.txt'), "mediums", self.clip_model, self.tokenize, config)
         self.movements = LabelTable(_load_list(config.data_path, 'movements.txt'), "movements", self.clip_model, self.tokenize, config)
         self.trendings = LabelTable(trending_list, "trendings", self.clip_model, self.tokenize, config)
