@@ -1,0 +1,26 @@
+Top-View
+Side-View
+Satellite-View
+Worms-Eye View
+View From an Airplane
+Aerial View
+Closeup
+Extreme Closeup
+Wide Shot
+Epic Wide Shot
+Centered-Shot
+Selfie
+First-Person View
+Field of View
+Third-Person View
+Birds Eye View
+Headshot
+Medium Shot
+Panoramic View
+Street View
+Full Body View
+Drone Shot
+Over-the-Shoulder Shot
+Landscape Shot
+Webcam Shot
+Screenshot

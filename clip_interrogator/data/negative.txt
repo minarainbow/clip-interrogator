@@ -1,30 +1,8 @@
-bad anatomy
-bad art
-blurry
-childish
-deformed
-disconnected limbs
-disfigured
-disgusting
 extra limb
-extra limbs
-floating limbs
-grain
-kitsch
-long body
-long neck
-low quality
-low-res
 malformed hands
-mangled
-missing limb
-mutilated
-out of focus
-over saturation
-oversaturated
-poorly drawn
 poorly drawn face
-poorly drawn hands
-surreal
-ugly
-weird colors
+distortions of objects
+non-logical placing of objects
+unnatural mixtures of foreground
+text distortion
+

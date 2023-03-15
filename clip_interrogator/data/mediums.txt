@@ -9,6 +9,7 @@ a child's drawing
 a color pencil sketch
 a colorized photo
 a comic book panel
+a marvel comic
 a computer rendering
 a cross stitch
 a cubist painting
@@ -93,3 +94,7 @@ lineart
 pixel art
 poster art
 vector art
+Patterns
+Pictogram
+Chart
+Graph
