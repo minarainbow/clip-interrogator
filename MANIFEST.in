@@ -1,6 +1,7 @@
 include clip_interrogator/data/artists.txt
 include clip_interrogator/data/lighting.txt
-include clip_interrogator/data/camera_shot.txt
+include clip_interrogator/data/styles.txt
+include clip_interrogator/data/perspective.txt
 include clip_interrogator/data/flavors.txt
 include clip_interrogator/data/mediums.txt
 include clip_interrogator/data/movements.txt
