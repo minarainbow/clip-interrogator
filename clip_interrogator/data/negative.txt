@@ -1,8 +1,8 @@
 extra limb
 malformed hands
 poorly drawn face
+distorted face
 distortions of objects
 non-logical placing of objects
 unnatural mixtures of foreground
 text distortion
-

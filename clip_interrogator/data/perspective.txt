@@ -4,8 +4,8 @@ Satellite-View
 Worms-Eye View
 View From an Airplane
 Aerial View
-Closeup
-Extreme Closeup
+Close up
+Extreme Close up
 Wide Shot
 Epic Wide Shot
 Centered-Shot

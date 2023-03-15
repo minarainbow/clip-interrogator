@@ -5,7 +5,6 @@ Rembrandt Lighting
 Split Lighting
 Low-Key Lighting
 High-Key Lighting
-
 Spotlight
 Backlight
 Rim Lights
@@ -19,5 +18,4 @@ Rays of Shimmering Light
 Sunlight
 Starlight
 Ultrabright
-
 Shadows
