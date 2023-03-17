@@ -19,7 +19,6 @@ a detailed painting
 a diagram
 a digital painting
 a digital rendering
-a drawing
 a fine art painting
 a flemish Baroque
 a gouache
@@ -35,17 +34,14 @@ a microscopic photo
 a mid-nineteenth century engraving
 a minimalist painting
 a mosaic
-a painting
 a pastel
 a pencil sketch
 a photo
 a photocopy
 a photorealistic painting
-a picture
 a pointillism painting
 a polaroid photo
 a pop art painting
-a portrait
 a poster
 a raytraced image
 a renaissance painting
@@ -77,7 +73,6 @@ an art deco painting
 an art deco sculpture
 an engraving
 an etching
-an illustration of
 an impressionist painting
 an ink drawing
 an oil on canvas painting
