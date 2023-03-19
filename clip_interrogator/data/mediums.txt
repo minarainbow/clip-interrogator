@@ -18,7 +18,6 @@ a detailed matte painting
 a detailed painting
 a diagram
 a digital painting
-a digital rendering
 a fine art painting
 a flemish Baroque
 a gouache
@@ -80,7 +79,6 @@ an ultrafine detailed painting
 chalk art
 computer graphics
 cyberpunk art
-digital art
 egyptian art
 graffiti art
 lineart
