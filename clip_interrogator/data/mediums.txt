@@ -23,7 +23,6 @@ a fine art painting
 a flemish Baroque
 a gouache
 a hologram
-a hyperrealistic painting
 a jigsaw puzzle
 a low poly render
 a macro photograph
@@ -80,7 +79,6 @@ an oil painting
 an ultrafine detailed painting
 chalk art
 computer graphics
-concept art
 cyberpunk art
 digital art
 egyptian art
