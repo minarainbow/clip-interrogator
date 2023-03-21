@@ -13,7 +13,6 @@ Selfie
 First-Person View
 Field of View
 Third-Person View
-Birds Eye View
 Headshot
 Medium Shot
 Panoramic View

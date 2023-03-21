@@ -6,3 +6,5 @@ distortions of objects
 non-logical placing of objects
 unnatural mixtures of foreground
 text distortion
+blurred face
+extra hand
